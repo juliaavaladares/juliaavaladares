@@ -12,6 +12,6 @@ I'm passionate by technology, programming and learn every day a new thing about 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliavaladares/)](hhttps://www.linkedin.com/in/juliavaladares/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juliaavaladaress/)](https://www.instagram.com/juliaavaladaress/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.valadares@ice.ufjf.br)](mailto:julia.valadares@ice.ufjf.br)
+[![Gmail Badge](https://img.shields.io/badge/-julia.valadares@ice.ufjf.br-style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.valadares@ice.ufjf.br)](mailto:julia.valadares@ice.ufjf.br)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/isadorastan)
 
