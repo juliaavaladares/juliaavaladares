@@ -1,6 +1,6 @@
 # Hey there 👋🏽
 
-My name is Júlia, I'm 22 years old and I'm a Coomputer Science studente at University of Juiz Fora, Brazil 🇧🇷. I study data mining and network analysis since 2017 with scientific research. 
+My name is Júlia, I'm 22 years old and I'm a Computer Science student at University of Juiz Fora, Brazil 🇧🇷. I study data mining and network analysis since 2017 with scientific research. 
 
 I'm passionate by technology, programming and learn every day a new thing about this wonderful world 🌎
 
