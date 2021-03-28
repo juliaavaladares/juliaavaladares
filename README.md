@@ -14,4 +14,10 @@ I'm passionate by technology, programming and learn every day a new thing about 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juliaavaladaress/)](https://www.instagram.com/juliaavaladaress/) 
 [![Gmail Badge](https://img.shields.io/badge/-julia.valadares@ice.ufjf.br-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.valadares@ice.ufjf.br)](mailto:julia.valadares@ice.ufjf.br)
 
+---
 
+# 🔨 Languages and Techs
+
+<div align="left">
+<img height="40" alt="HTML5" src="./public/techs/html5.svg"/> &nbsp;&nbsp; <img height="40" alt="CSS3" src="./public/techs/css3.svg"/> &nbsp;&nbsp; <img height="40" alt="JavaScript" src="./public/techs/javascript.svg"/> &nbsp;&nbsp; <img height="40" alt="Sass" src="./public/techs/sass.svg"/> &nbsp; <img height="40" alt="Git" src="./public/techs/git.svg"/>
+</div>
