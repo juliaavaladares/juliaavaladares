@@ -15,9 +15,9 @@ I'm passionate by technology, programming and learn every day a new thing about 
 [![Gmail Badge](https://img.shields.io/badge/-julia.valadares@ice.ufjf.br-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.valadares@ice.ufjf.br)](mailto:julia.valadares@ice.ufjf.br)
 
 ---
+# 🤖 Stats 
+<img src='https://github-readme-stats.vercel.app/api?username=juliaavaladares&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'> </img>
 
-# 🔨 Languages and Techs
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaavaladares&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/>
 
-<div align="left">
-<img height="40" alt="HTML5" src="./public/techs/html5.svg"/> &nbsp;&nbsp; <img height="40" alt="CSS3" src="./public/techs/css3.svg"/> &nbsp;&nbsp; <img height="40" alt="JavaScript" src="./public/techs/javascript.svg"/> &nbsp;&nbsp; <img height="40" alt="Sass" src="./public/techs/sass.svg"/> &nbsp; <img height="40" alt="Git" src="./public/techs/git.svg"/>
-</div>
+----
