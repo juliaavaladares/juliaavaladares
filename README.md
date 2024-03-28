@@ -5,8 +5,8 @@ My name is Júlia, I'm 22 years old and I'm a Computer Science student at Univer
 I'm passionate by technology, programming and learn every day a new thing about this wonderful world 🌎
 
 - Mineirinha 🧀
-- Junior developer at [Magazine Luiza](https://ri.magazineluiza.com.br/ShowCanal/Quem-Somos?=urUqu4hANldyCLgMRgOsTw==)
-- Reserach at [UFJF](https://www2.ufjf.br/ufjf/)
+- Software Engineer at [Nubank](https://nubank.com.br/)
+- Master's student at [UFJF](https://www2.ufjf.br/ufjf/)
 
 ## Reach me out 👇🏼
 
